@@ -1,0 +1,23 @@
+﻿@using System.Web.Optimization
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - Тестовое задание by Игорь Олейников - ОтельДискаунт</title>
+    @Scripts.Render("~/Scripts")
+    @Styles.Render("~/Styles")
+</head>
+    <body>
+        <header>
+            <img src="http://www.hoteldiscount.ru/s/i/n-logo.jpg"/>
+            <h1>Тестовое задание</h1>
+            <h2>выполнено <a href="http://www.linkedin.com/pub/igor-oleinikov/9/b50/366">Игорем Олейниковым</a></h2>
+        </header>
+        @RenderBody()
+    </body>
+</html>

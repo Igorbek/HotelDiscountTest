@@ -1,0 +1,2340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HotelValuedAvailRS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.hotelbeds.com/schemas/2005/06/messages HotelValuedAvailRS.xsd" timeToExpiration="1799993" totalItems="23">
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>91703</Code>
+      <Name>Austria Trend Hotel Salzburg Mitte</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091703/091703a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091703/091703a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="H3_5" shortname="3½*">3 STARS AND A HALF</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.83012999999999692591" longitude="13.00580000000000069349" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="1IgjFIGua0Dga+Qu+w10yA==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>317.820</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="CXm+FGhtHcci8Hf3PN4w0A==" availCount="3" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>490.200</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ZVciwKq96BJ55AmeQLHKew==" availCount="3" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>490.200</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>106238</Code>
+      <Name>Ante Portas</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/106238/106238a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/106238/106238a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="3EST" shortname="3*">3 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="0" />
+      <Position latitude="47.81586000000000069576" longitude="13.06910000000000060538" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="kNsCJCY9S2ZasvvD589nIg==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="STU-E10" characteristic="C1">STUDIO 1 PERSON</RoomType>
+        <Price>
+          <Amount>332.160</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="kNsCJCY9S2ZasvvD589nIg==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="STU-E10" characteristic="C2">STUDIO 2 PEOPLE</RoomType>
+        <Price>
+          <Amount>431.820</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="kNsCJCY9S2ZasvvD589nIg==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="STU-E10" characteristic="C3">STUDIO 3 PEOPLE</RoomType>
+        <Price>
+          <Amount>631.080</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="SUDNzZ0ZebL1o+q8t6x2tg==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="STU-E10" characteristic="C3">STUDIO 3 PEOPLE</RoomType>
+        <Price>
+          <Amount>631.080</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>56888</Code>
+      <Name>Goldenes Theater Hotel</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/05/056888/056888a_hb_a_004.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/05/056888/056888a_hb_w_001.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80559000000000224873" longitude="13.05208000000000012619" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="RwpOHnts46J9iC6A0VMqhA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>348.420</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="teKtWKscl9MyJCc7lQJhtg==" availCount="8" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>530.220</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="mo08pcd7xWpJdLXHTN2wnA==" availCount="8" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>530.220</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>56888</Code>
+      <Name>Goldenes Theater Hotel</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/05/056888/056888a_hb_a_004.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/05/056888/056888a_hb_w_001.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80559000000000224873" longitude="13.05208000000000012619" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="RwpOHnts46J9iC6A0VMqhA==" availCount="6" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>370.320</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="teKtWKscl9MyJCc7lQJhtg==" availCount="12" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>565.620</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="mo08pcd7xWpJdLXHTN2wnA==" availCount="12" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>565.620</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>105875</Code>
+      <Name>Lasserhof</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105875/105875a_hb_a_004.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105875/105875a_hb_a_007.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="2" />
+      <Position latitude="47.80928999999999717829" longitude="13.04546000000000027796" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="o87B0Yp4d8ZOLHHx9llrDw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>348.420</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="kT2qEMrqDgPhvGlngOTjUQ==" availCount="8" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>479.760</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="dOVoj91ToFKJcu08OIfuQg==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>550.440</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>105875</Code>
+      <Name>Lasserhof</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105875/105875a_hb_a_004.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105875/105875a_hb_a_007.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="2" />
+      <Position latitude="47.80928999999999717829" longitude="13.04546000000000027796" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="o87B0Yp4d8ZOLHHx9llrDw==" availCount="6" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>370.320</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="kT2qEMrqDgPhvGlngOTjUQ==" availCount="8" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>511.740</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="dOVoj91ToFKJcu08OIfuQg==" availCount="3" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>565.620</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>NRF</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NRF">Non refundable rate</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>6309</Code>
+      <Name>Austria Trend Hotel Salzburg West</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006309/006309a_hb_a_003.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006309/006309a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.79259862927332846994" longitude="12.99155241992345466429" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="z0DDL8xjN7QmTo5pW7ZQ2A==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>351.480</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ltvoo/qKJ4KVzxEQL3CeKw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>445.200</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="LoJXGkNgPvBk1c1H+NG0xw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>492.060</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="8ILCzY03tMUctrRzFKHtRQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>492.060</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>6309</Code>
+      <Name>Austria Trend Hotel Salzburg West</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006309/006309a_hb_a_003.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006309/006309a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.79259862927332846994" longitude="12.99155241992345466429" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="z0DDL8xjN7QmTo5pW7ZQ2A==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>403.980</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ltvoo/qKJ4KVzxEQL3CeKw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>511.740</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="LoJXGkNgPvBk1c1H+NG0xw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>565.620</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="8ILCzY03tMUctrRzFKHtRQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>565.620</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>NRF</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NRF">Non refundable rate</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>6298</Code>
+      <Name>Austria Trend Hotel Europa Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006298/006298a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006298/006298a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.81215999999999866077" longitude="13.04368000000000016314" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ny74x7tciLT4tmwdyAWTWA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>396.770</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ZH0riTdIXLWMCMkjkl8psw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>490.490</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="E0RB3ZHDzCSGQznIJxqaug==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>771.660</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="zi6tTYexuDmesLaLfAGJPQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>771.660</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>6298</Code>
+      <Name>Austria Trend Hotel Europa Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006298/006298a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006298/006298a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.81215999999999866077" longitude="13.04368000000000016314" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ny74x7tciLT4tmwdyAWTWA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>456.080</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ZH0riTdIXLWMCMkjkl8psw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>563.780</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="E0RB3ZHDzCSGQznIJxqaug==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>887.000</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="zi6tTYexuDmesLaLfAGJPQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>887.000</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>21747</Code>
+      <Name>Markus Sittikus</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/02/021747/021747a_hb_w_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/02/021747/021747a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80819999999999936335" longitude="13.04227000000000025182" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="AGfx7QCiLflj8DFH3u62Og==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>410.730</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="hlTJhnYwefuSFyyLKfTmuQ==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>617.200</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="6Xe8tykPkho1e2C9zkE1og==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>839.390</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>91932</Code>
+      <Name>Austrotel Salzburg am Mirabellplatz</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091932/091932a_hb_l_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091932/091932a_hb_l_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.80441984534263610840" longitude="13.04385971277952194214" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="hN4AVi+7gm5HmpGfuTQzlw==" availCount="1" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>420.180</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="UcaAhFL2eSpq8gGO3tVIGQ==" availCount="1" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>533.280</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ob5jx2VODcmUXjeRBuDErQ==" availCount="3" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>721.800</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>NON REFUNDABLE</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NRF">Non refundable rate</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>136695</Code>
+      <Name>Radisson Blu Hotel &amp; Conference Centre, Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.81522122849093392460" longitude="13.04401403251603497324" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="DTAz3WDFXRQ8B4buSjFrPg==" availCount="7" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>467.300</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="nMSOJixTc9HoUowwH0OOdA==" availCount="7" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>558.200</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="AeCQfrpS87/BwqIQzVCxCA==" availCount="7" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>709.700</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="LmAKw75p8C+9i2VAwZ7w6g==" availCount="7" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>982.400</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>136695</Code>
+      <Name>Radisson Blu Hotel &amp; Conference Centre, Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.81522122849093392460" longitude="13.04401403251603497324" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="DTAz3WDFXRQ8B4buSjFrPg==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>584.120</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="nMSOJixTc9HoUowwH0OOdA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>675.020</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="OPvtcSgoBD1jmY74C2P6yA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="HB-E10" shortname="HB">HALF BOARD</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>781.040</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="AeCQfrpS87/BwqIQzVCxCA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>887.120</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="LmAKw75p8C+9i2VAwZ7w6g==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1159.820</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="Y2ZMto7zcy+UhLWjFNS5IQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="HB-E10" shortname="HB">HALF BOARD</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1477.880</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT B2B</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>136695</Code>
+      <Name>Radisson Blu Hotel &amp; Conference Centre, Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/136695/136695a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="11" />
+      <Position latitude="47.81522122849093392460" longitude="13.04401403251603497324" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="nMSOJixTc9HoUowwH0OOdA==" availCount="9" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>512.400</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="OPvtcSgoBD1jmY74C2P6yA==" availCount="9" onRequest="N">
+        <Board type="SIMPLE" code="HB-E10" shortname="HB">HALF BOARD</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>653.820</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="LmAKw75p8C+9i2VAwZ7w6g==" availCount="9" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1032.180</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="Y2ZMto7zcy+UhLWjFNS5IQ==" availCount="9" onRequest="N">
+        <Board type="SIMPLE" code="HB-E10" shortname="HB">HALF BOARD</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1456.440</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG - BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>138256</Code>
+      <Name>Amedia Hotel Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/138256/138256a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/13/138256/138256a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80928999999999717829" longitude="13.06395000000000017337" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="VZ4f2+hBMxFjkrnBdzJEeg==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>475.820</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="7YBKjl1d+V7Xc56SAfliUw==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>551.240</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ULKKMEgdVHGrTVLu0NQgdQ==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>572.800</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="UBFL3uWtn2lgluxOGC0AYA==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="RO-E10" shortname="RO">ROOM ONLY</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>716.000</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="0DDCjy3UjyNCqtNpyu9wGQ==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>648.220</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="/iAn3HCjvOhMkLSQKYEDSQ==" availCount="10" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="ST">Double 1 or 2 beds STANDARD</RoomType>
+        <Price>
+          <Amount>942.260</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>6301</Code>
+      <Name>Der Salzburger Hof</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006301/006301a_hb_w_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/00/006301/006301a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="9" />
+      <Position latitude="47.81425999999999731926" longitude="13.04235000000000077591" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="djDnMOXQFg1oWhAMbctUxQ==" availCount="20" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>510.360</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="MMqJnUMO2kATCVrXU6nEfg==" availCount="20" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>692.880</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="X+I31EZpiUY1w60h+MsJMA==" availCount="20" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>948.720</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>92853</Code>
+      <Name>Hofwirt</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/092853/092853a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/092853/092853a_hb_l_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="3EST" shortname="3*">3 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80537000000000347200" longitude="13.05003999999999919623" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="JA0MXQmN+YvTQm6bmBI74g==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DUS-E10" characteristic="ST">DOUBLE SINGLE USE STANDARD</RoomType>
+        <Price>
+          <Amount>518.460</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="e51A32z8HUCFKmoILBE0wA==" availCount="4" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>542.040</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="WTr4mouqk6CnGb4/tOO3zA==" availCount="1" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>840.540</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>103636</Code>
+      <Name>Castellani Parkhotel Salzburg</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/103636/103636a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/103636/103636a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.79223000000000354248" longitude="13.05948000000000064347" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="ijSfWu+5Q62lV5gM8Wu3zw==" availCount="1" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>571.320</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="BcfMXzrpSHHhPf0gSi/qlQ==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>717.420</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="zuIeyJSqg30hayxAcdbPRg==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>916.740</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-BAR</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>177526</Code>
+      <Name>Ramada Salzburg City Center</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/17/177526/177526a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/17/177526/177526a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.81384680000000031441" longitude="13.04478889999995772087" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="Q6UTkt1CyB9sBX0UXdxbqg==" availCount="14" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>690.160</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="9L1TlYucdc9/7Cx6/FKbAw==" availCount="14" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>871.960</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="tJ/Ersxx1eq6nJdDRK6HlA==" availCount="14" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>1089.970</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="TOS">Top Sales</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>91933</Code>
+      <Name>Stein</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091933/091933a_hb_w_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091933/091933a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="2" />
+      <Position latitude="47.80124980956315994263" longitude="13.04521489888429641724" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="cjvVpKlYyNsbCqIQ1HE+uw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>785.530</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="cjvVpKlYyNsbCqIQ1HE+uw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="EJ">SINGLE EXECUTIVE</RoomType>
+        <Price>
+          <Amount>965.110</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="I4faFQDVbDzjjN9vuleoEw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>1094.170</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="I4faFQDVbDzjjN9vuleoEw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="EJ">DOUBLE EXECUTIVE</RoomType>
+        <Price>
+          <Amount>1211.970</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="mFoJ1QgkvLalTuU/YGyJhw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1464.500</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="orm+Ye0fCB8ScyCzEwggEA==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1464.500</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-VARIOS</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>91933</Code>
+      <Name>Stein</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091933/091933a_hb_w_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/09/091933/091933a_hb_w_002.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="2" />
+      <Position latitude="47.80124980956315994263" longitude="13.04521489888429641724" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="cjvVpKlYyNsbCqIQ1HE+uw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>785.530</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="cjvVpKlYyNsbCqIQ1HE+uw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="EJ">SINGLE EXECUTIVE</RoomType>
+        <Price>
+          <Amount>965.110</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="I4faFQDVbDzjjN9vuleoEw==" availCount="1" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>1094.170</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="I4faFQDVbDzjjN9vuleoEw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="EJ">DOUBLE EXECUTIVE</RoomType>
+        <Price>
+          <Amount>1211.970</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="mFoJ1QgkvLalTuU/YGyJhw==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1464.500</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="orm+Ye0fCB8ScyCzEwggEA==" availCount="2" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="TPL-E10" characteristic="ST">TRIPLE STANDARD</RoomType>
+        <Price>
+          <Amount>1464.500</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+  <ServiceHotel xsi:type="ServiceHotel" availToken="DfL16ddf3jM5bvDNfpSsSQan">
+    <ContractList>
+      <Contract>
+        <Name>CG-FIT</Name>
+        <IncomingOffice code="228"></IncomingOffice>
+        <Classification code="NOR">Online Price</Classification>
+      </Contract>
+    </ContractList>
+    <DateFrom date="20130901" />
+    <DateTo date="20130907" />
+    <Currency code="EUR">Euro</Currency>
+    <HotelInfo xsi:type="ProductHotel">
+      <Code>105558</Code>
+      <Name>Auersperg Salzburg Hotel &amp; Villa</Name>
+      <ImageList>
+        <Image>
+          <Type>jpg</Type>
+          <Order>1</Order>
+          <VisualizationOrder>1</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105558/105558a_hb_a_001.jpg</Url>
+        </Image>
+        <Image>
+          <Type>jpg</Type>
+          <Order>2</Order>
+          <VisualizationOrder>2</VisualizationOrder>
+          <Url>http://www.hotelbeds.com/giata/small/10/105558/105558a_hb_a_006.jpg</Url>
+        </Image>
+      </ImageList>
+      <Category type="SIMPLE" code="4EST" shortname="4*">4 STARS</Category>
+      <Destination type="SIMPLE" code="SZG">
+        <Name>Salzburg</Name>
+        <ZoneList>
+          <Zone type="SIMPLE" code="1">Salzburg</Zone>
+        </ZoneList>
+      </Destination>
+      <ChildAge ageFrom="0" ageTo="12" />
+      <Position latitude="47.80677000000000020918" longitude="13.04975999999999913825" />
+    </HotelInfo>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="X+qnGOixUgS/399JfrCdlw==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="SGL-E10" characteristic="ST">SINGLE STANDARD</RoomType>
+        <Price>
+          <Amount>848.410</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="IZ6bRx1XtAvMbOcnEB9T7A==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>969.590</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="Q8h7K2kFaBabtxnyfpzWNQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBL-E10" characteristic="ST">DOUBLE STANDARD</RoomType>
+        <Price>
+          <Amount>1171.610</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>1</AdultCount>
+          <ChildCount>0</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="TxKCgkf8ZtgyGMpTwP7+VQ==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="SU">Double 1 or 2 beds SUPERIOR</RoomType>
+        <Price>
+          <Amount>1077.300</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+    <AvailableRoom>
+      <HotelOccupancy>
+        <RoomCount>1</RoomCount>
+        <Occupancy>
+          <AdultCount>2</AdultCount>
+          <ChildCount>1</ChildCount>
+        </Occupancy>
+      </HotelOccupancy>
+      <HotelRoom SHRUI="vSex9M7j31JG34xkv+WKOg==" availCount="5" onRequest="N">
+        <Board type="SIMPLE" code="BB-E10" shortname="BB">BED AND BREAKFAST</Board>
+        <RoomType type="SIMPLE" code="DBT-E10" characteristic="SU">Double 1 or 2 beds SUPERIOR</RoomType>
+        <Price>
+          <Amount>1279.320</Amount>
+        </Price>
+      </HotelRoom>
+    </AvailableRoom>
+  </ServiceHotel>
+</HotelValuedAvailRS>

@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <ResponseDetails Language="ru">
+    <SearchHotelPriceResponse>
+      <HotelDetails>
+        <Hotel HasExtraInfo="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="97"><![CDATA[Star Inn Zentrum]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>3</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:97:42061:S45182:68155:167918">
+              <Description><![CDATA[Четырехместный 'стандарт']]></Description>
+              <ItemPrice Currency="EUR">1559.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="B"><![CDATA[Холодный буфет]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="ALT"><![CDATA[Altstadt Radisson]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>5</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:ALT3:17347:S17022:23024:92965">
+              <Description><![CDATA[Трехместный  'экзекьютив']]></Description>
+              <ItemPrice Currency="EUR">4110.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="AUS1"><![CDATA[Austria Trend Mitte]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>3</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:AUS1:6925:S6833:7691:30100">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1656.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="BAY"><![CDATA[Der Salzburger Hof]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:BAY:10118:S9783:11283:46213">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1804.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:DER:10118:S9783:11283:46147">
+              <Description><![CDATA[Themed Triple]]></Description>
+              <ItemPrice Currency="EUR">1888.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:DER1:10118:S9783:11283:46196">
+              <Description><![CDATA[Свита джуниор стандарт]]></Description>
+              <ItemPrice Currency="EUR">2050.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="BRI"><![CDATA[Bristol]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>5</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:BRI:29570:S30504:46943:147744">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">3518.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="CAR"><![CDATA[VILLA CARLTON]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:CAR:10133:S9865:11377:46489">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1818.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="CAS"><![CDATA[Castellani Parkhotel]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:CAS:24649:S24130:36749:128436">
+              <Description><![CDATA[Номер 'стандарт']]></Description>
+              <ItemPrice Currency="EUR">1725.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>true</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+              <EssentialInformation>
+                <Information>
+                  <Text><![CDATA[Возле гостиницы происходят строительные работы.]]></Text>
+                  <DateRange>
+                    <FromDate>2012-06-29</FromDate>
+                    <ToDate>2013-12-31</ToDate>
+                  </DateRange>
+                </Information>
+              </EssentialInformation>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="COR"><![CDATA[GOLDENES THEATERHOTEL]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:COR:10120:S9736:11250:46134">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1302.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="EUR"><![CDATA[Europa]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+            <Location Code="G3"><![CDATA[Station]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:EUR:10146:S9862:11374:46478">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">2016.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="GOL"><![CDATA[Goldener Hirsch]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>5</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:GOL1:18134:S17861:24814:129266">
+              <Description><![CDATA[Exclusive Double]]></Description>
+              <ItemPrice Currency="EUR">4479.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="HOF"><![CDATA[HOFWIRT]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>3</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:HOF:24082:S23540:35803:144222">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1118.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="HOH"><![CDATA[Hohenstauffen]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>3</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:HOH:43221:S45442:68392:168130">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1314.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="B"><![CDATA[Холодный буфет]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="KAS"><![CDATA[Kasererbrau]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:KAS:16476:S16187:21380:129067">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1309.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS2:16476:S16187:21380:129086">
+              <Description><![CDATA[Двойной 'сьюпериор']]></Description>
+              <ItemPrice Currency="EUR">1604.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS:16476:S16187:21380:87666">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1813.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS3:16476:S16187:21380:129066">
+              <Description><![CDATA[Mezzanine Double]]></Description>
+              <ItemPrice Currency="EUR">1908.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS3:16476:S16187:21380:87454">
+              <Description><![CDATA[Mezzanine Triple]]></Description>
+              <ItemPrice Currency="EUR">2214.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS2:16476:S16187:21380:87651">
+              <Description><![CDATA[Трехместный 'сьюпериор']]></Description>
+              <ItemPrice Currency="EUR">2253.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:KAS3:16476:S16187:21380:87442">
+              <Description><![CDATA[Mezzanine Quad]]></Description>
+              <ItemPrice Currency="EUR">2427.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="MAR"><![CDATA[MARKUS SITTIKUS]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:MAR:10119:S9876:11400:46603">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1650.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="B"><![CDATA[Холодный буфет]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="MOZ"><![CDATA[MOZART]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:MOZ:10161:S9828:11340:46373">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1590.00</ItemPrice>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="B"><![CDATA[Холодный буфет]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="NEU"><![CDATA[NEUTOR]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:NEU:10142:S9814:11355:46414">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1572.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="RAM1"><![CDATA[Ramada]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:RAM1:10139:S9830:11346:129680">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1513.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="SHE"><![CDATA[Sheraton Salzburg]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>5</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:SHE:18577:S18294:25677:129081">
+              <Description><![CDATA[Двойной номер классик]]></Description>
+              <ItemPrice Currency="EUR" GrossWithoutDiscount="3190.00" IncludedOfferDiscount="474.00">2716.00</ItemPrice>
+              <Offer Code="FN">Free Night Offer</Offer>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:SHE2:18577:S18294:25677:129082">
+              <Description><![CDATA[Двойной 'экзекьютив']]></Description>
+              <ItemPrice Currency="EUR" GrossWithoutDiscount="3586.00" IncludedOfferDiscount="523.00">3063.00</ItemPrice>
+              <Offer Code="FN">Free Night Offer</Offer>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:SHE:18577:S18294:25677:100682">
+              <Description><![CDATA[Трехместный классик]]></Description>
+              <ItemPrice Currency="EUR" GrossWithoutDiscount="3622.00" IncludedOfferDiscount="546.00">3076.00</ItemPrice>
+              <Offer Code="FN">Free Night Offer</Offer>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:SHE2:18577:S18294:25677:100686">
+              <Description><![CDATA[Трехместный  'экзекьютив']]></Description>
+              <ItemPrice Currency="EUR" GrossWithoutDiscount="4018.00" IncludedOfferDiscount="595.00">3423.00</ItemPrice>
+              <Offer Code="FN">Free Night Offer</Offer>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="STE"><![CDATA[Stein]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:STE:46948:S49713:72692:173264">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR" GrossWithoutDiscount="2807.00" IncludedOfferDiscount="428.00">2379.00</ItemPrice>
+              <Offer Code="FN">Free Night Offer</Offer>
+              <Confirmation Code="OR"><![CDATA[По Требованию]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+        <Hotel HasExtraInfo="true" HasMap="true" HasPictures="true">
+          <City Code="SZG"><![CDATA[Зальцбург]]></City>
+          <Item Code="STI"><![CDATA[Best Western Stieglbrau]]></Item>
+          <LocationDetails>
+            <Location Code="G1"><![CDATA[Central]]></Location>
+          </LocationDetails>
+          <StarRating>4</StarRating>
+          <HotelRooms>
+            <HotelRoom Code="SB" NumberOfRooms="1" />
+            <HotelRoom Code="DB" ExtraBed="true" NumberOfExtraBeds="1" NumberOfRooms="1" />
+          </HotelRooms>
+          <RoomCategories>
+            <RoomCategory Id="001:STI1:10145:S9993:11599:129613">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1245.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="N"><![CDATA[Нет]]></Basis>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:STI1:10145:S9993:11599:47160">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1428.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="N"><![CDATA[Нет]]></Basis>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:STI:10145:S9993:11603:129613">
+              <Description><![CDATA[Стандартный двойной]]></Description>
+              <ItemPrice Currency="EUR">1545.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+            <RoomCategory Id="001:STI:10145:S9993:11603:47160">
+              <Description><![CDATA[Стандартный трехместный]]></Description>
+              <ItemPrice Currency="EUR">1878.00</ItemPrice>
+              <Confirmation Code="IM"><![CDATA[немедленное подтверждение]]></Confirmation>
+              <SharingBedding>false</SharingBedding>
+              <Meals>
+                <Basis Code="B"><![CDATA[включая  завтрак]]></Basis>
+                <Breakfast Code="F"><![CDATA[Полный]]></Breakfast>
+              </Meals>
+            </RoomCategory>
+          </RoomCategories>
+        </Hotel>
+      </HotelDetails>
+    </SearchHotelPriceResponse>
+  </ResponseDetails>
+</Response>

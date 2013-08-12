@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    padding: 1em;
+}
+body > * {
+    padding: 1em 3em;
+}
+header {
+    border-bottom: solid 1px #ccc;
+    min-height: 85px;
+
+    img {
+        float: left;
+    }
+
+    h1, h2 {
+        padding: 0;
+        margin: 0;
+        margin-left: 400px;
+        text-align: right;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+}
+
+@brandColor: #8ebc00;
+@brandColorDark: #648500;
+@lineColor: #dadada;
+
+form {
+    input[type=submit] {
+        border-color: @brandColor;
+        color: white;
+        font-weight: bold;
+        padding-left: 2em;
+        padding-right: 2em;
+        background-color: @brandColor;
+    }
+    .tip { font-size: 0.8em; font-style: italic; }
+}
+
+.Hotels {
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-size: 0.8em;
+
+    li {
+        display: block;
+        padding: 0;
+        margin: 1em 0;
+
+        border-top: solid 1px @lineColor;
+
+        &>a {
+            display: block;
+            padding: 0;
+            margin: 0;
+            & > img { width: 150px; max-height: 100px; float: left; margin: 1em 0 0 0; }
+            text-decoration: none;
+            color: inherit;
+        }
+        
+        h1, h2, p { margin-left: 180px; }
+        h1 { font-size: 1.5em; }
+        h2, p { font-size: 1em; }
+        &::after {
+            display: block;
+            content: '';
+            clear: both;
+        }
+    }
+}
+
+.HotelDetails
+{
+    .BackPanel {
+        padding-bottom: 1em;
+        a { text-decoration: none; color: @brandColorDark; margin-right: 2em; }
+    }
+
+    h1, h2, p, ul { margin-left: 250px; }
+    h1 { font-size: 2em; }
+
+    .Images {
+        float: left;
+        width: 220px;
+        padding-top: 1.4em;
+        img {
+            width: 220px;
+            margin-bottom: 1em;
+        }
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0;
+        li {
+            border-top: solid 1px @lineColor;
+            padding: .5em 0;
+            margin: 1em 0 0 0;
+            clear: right;
+        }
+    }
+
+}
+
+.Hotels, .HotelDetails {
+    h1 {
+        color: @brandColorDark;
+
+        &.star1, &.star2, &.star3, &.star4, &.star5 {
+            padding-top: 26px;
+            background-position: 0 0;
+            background-repeat: no-repeat;
+        }
+
+        &.star1 {
+            background-image: url(../Images/star1.png);
+        }
+
+        &.star2 {
+            background-image: url(../Images/star2.png);
+        }
+
+        &.star3 {
+            background-image: url(../Images/star3.png);
+        }
+
+        &.star4 {
+            background-image: url(../Images/star4.png);
+        }
+
+        &.star5 {
+            background-image: url(../Images/star5.png);
+        }
+    }
+
+    h2, p {
+        font-size: 1em;
+    }
+    
+    .price {
+        display: block;
+        float: right;
+        font-size: 2em;
+        padding: .5em 1em;
+        color: white;
+        font-weight: bold;
+        background-color: @brandColorDark;
+    }
+}

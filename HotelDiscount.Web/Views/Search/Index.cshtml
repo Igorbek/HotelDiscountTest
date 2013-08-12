@@ -1,0 +1,101 @@
+﻿@using System.Web.Optimization
+@model SearchOutputModel
+
+@{
+    ViewBag.Title = "Поиск";
+}
+
+@Scripts.Render("~/Scripts/Search/Index.js")
+<script>
+    var _Model = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+    HotelDiscount.Search.Init();
+</script>
+
+@using (Html.BeginForm())
+{
+    <div class="k-content">
+        <div>
+            <label>Я ищу отели в <input type="text" placeholder="Город" data-bind="kendoAutoComplete: { data: CityChoices, value: City }"/></label>
+            <label>в период с <input data-bind="kendoDatePicker: { value: DateFrom, max: DateTo }"/></label>
+            <label>по <input data-bind="kendoDatePicker: { value: DateTo, min: DateFrom }"/></label>
+            <input type="submit" value="Найти" class="k-button"/>
+        </div>
+        <div class="tip">
+            номера: @Model.Input.RoomsDescription
+        </div>
+    </div>
+}
+
+<div data-bind="if: Results">
+    <div data-bind="visible: !DetailsHotel()">
+        Найдено <span data-bind="text: Results.Hotels.length"></span> отелей 
+        <span data-bind="visible: Pages.length > 1, foreach: Pages" style="margin-left: 3em;">
+            <a data-bind="text: $data+1, click: function() { $parent.Page($data); }, css: { 'k-state-selected': $data==$parent.Page() }" href="#" class="k-button"></a>
+        </span>
+        Сортировать по <input data-bind="kendoDropDownList: { data: OrderOptions, value: Order }" style="width: 7em;" />
+        Валюта <input data-bind="kendoDropDownList: { data: Currencies, value: Currency }" style="width: 6em;"/>
+
+        <ul data-bind="foreach: Hotels" class="Hotels">
+            <li>
+                <a href="#" data-bind="click: function() { $parent.DetailsHotel($data); }">
+                    <img data-bind="if: Hotel.ThumbnailImageUri, attr: { src: Hotel.ThumbnailImageUri }"/>
+                    <div class="price" data-bind="text: $parent.GetPrice($data)"></div>
+                    <h1 data-bind="text: Hotel.Name, css: 'star' + Hotel.Stars "></h1>
+                    <h2 data-bind="visible: Hotel.Address, text: Hotel.Address"></h2>
+                    <p data-bind="visible: Hotel.Description, text: Hotel.Description"></p>
+                </a>
+            </li>
+        </ul>
+        Страницы <span data-bind="visible: Pages.length > 1, foreach: Pages" style="margin-left: 3em;">
+            <a data-bind="text: $data+1, click: function() { $parent.Page($data); }, css: { 'k-state-selected': $data==$parent.Page() }" href="#" class="k-button"></a>
+        </span>
+    </div>
+    <div data-bind="with: DetailsHotel()" class="HotelDetails">
+        <div class="BackPanel">
+            <a href="#" data-bind="click: function() { $parent.DetailsHotel(null); }">&larr; Вернуться к результатам поиска</a>
+            Валюта <input data-bind="kendoDropDownList: { data: $parent.Currencies, value: $parent.Currency }" style="width: 6em;"/>
+        </div>
+        <div class="Images" data-bind="foreach: Hotel.ImagesUris"><img data-bind="attr: { src: $data }" /></div>
+        <h1 data-bind="text: Hotel.Name, css: 'star' + Hotel.Stars "></h1>
+        <h2 data-bind="visible: Hotel.Address, text: Hotel.Address"></h2>
+        <p data-bind="visible: Hotel.Description, text: Hotel.Description"></p>
+        <ul data-bind="foreach: PlacementOptions">
+            <li>
+                <div class="price" data-bind="text: $parents[1].GetPlacementPrice($data)"></div>
+                <h3 data-bind="text: Name"></h3>
+                <div class="k-content"><strong>Питание/Завтраки</strong>: <span data-bind="text: Meals.join(', ')"></span></div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+@*@if (Model.SearchResult != null)
+{
+    <h1>Результаты</h1>
+    <ul>
+        @foreach (var hotel in Model.SearchResult.Hotels.OrderBy(h=>h.PlacementOptions.Min(po=>po.Price)))
+        {
+            <li>
+                @if (hotel.Hotel.ThumbnailImageUri != null) {<img src="@hotel.Hotel.ThumbnailImageUri"/>}
+                <h2>@hotel.Hotel.Name@if (hotel.Hotel.Stars.HasValue){ @(" " + string.Concat(Enumerable.Repeat("*", hotel.Hotel.Stars.Value))) }</h2>
+                @if (hotel.Hotel.Description != null)
+                {
+                    <h3>@hotel.Hotel.Description</h3>
+                }
+                @if (hotel.Hotel.Address != null)
+                {
+                    <div>@hotel.Hotel.Address</div>
+                }
+                <ul>
+                    @foreach (var p in hotel.PlacementOptions.OrderBy(po=>po.Price))
+                    {
+                        <li>
+                            <h4>@p.Name <span>@p.Price.ToString("F2") @p.Currency</span></h4>
+                            <p>Питание: @string.Join(", ", p.Meals)</p>
+                        </li>
+                    }
+                </ul>
+            </li>
+        }
+    </ul>
+}*@

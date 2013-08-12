@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TWS_HotelList>
+  <Hotel hotelId="1221372" provider="localTgsProvider" name="Goldenes Theater Hotel Salzburg" address="Shallmooser Hauptstraße 13 Salzburg  5020" category="Superior First Class" bestVal="0" thumb="http://image1.urlforimages.com/1221372/main001_Thumbnailed.jpg" starsLevel="4" minAverPrice="107.87" desc="Для размещения семьи любого размера имеется большой выбор апартаментов." location="Zentrum,Salzburg,AT" currency="EUR" brandId="0" brandName="">
+    <RoomType productId="1221372;2023157;260066" name="Трехместный" nights="6" startDate="2013-09-01" isAvailable="true" roomId="25918" hotelRoomTypeId="2023157">
+      <Occup occupId="1221372;2023157;260066;1;1;0" price="647.22" bedding="1,1" my_dblBed="false" isPublish="false">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="107.87" />
+        <Price offset="1" value="107.87" />
+        <Price offset="2" value="107.87" />
+        <Price offset="3" value="107.87" />
+        <Price offset="4" value="107.87" />
+        <Price offset="5" value="107.87" />
+      </Occup>
+      <Occup occupId="1221372;2023157;260066;1;3;0" price="647.22" bedding="3,2" my_dblBed="true" isPublish="false">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="107.87" />
+        <Price offset="1" value="107.87" />
+        <Price offset="2" value="107.87" />
+        <Price offset="3" value="107.87" />
+        <Price offset="4" value="107.87" />
+        <Price offset="5" value="107.87" />
+      </Occup>
+    </RoomType>
+  </Hotel>
+  <Hotel hotelId="1317995" provider="IHGProvider" name="Crowne Plaza Salzburg The Pitter" address="Rainerstrasse 6 8 Salzburg  5020" category="Superior First Class" bestVal="0" thumb="http://Image1.urlforimages.com/IHGProvider/IHG/1404653/367607461998257683_Thumb.jpg" starsLevel="4" minAverPrice="106.18" desc="Experience quintessential Salzburg architecture and cuisine at the Crowne Plaza Salzburg-The Pitter hotel, 300 metres from iconic Mirabell Palace" location="Salzburg,AT" currency="EUR" brandId="0" brandName="">
+    <RoomType productId="1317995;12699447;0" name="номер/а повышенной комфортности (Супириор) / безвозвратный тариф" nights="6" startDate="2013-09-01" isAvailable="true" roomId="4634259" hotelRoomTypeId="12699447">
+      <Occup occupId="1317995;12699447;0;3;2;1" price="637.08" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="106.18" />
+        <Price offset="1" value="106.18" />
+        <Price offset="2" value="106.18" />
+        <Price offset="3" value="106.18" />
+        <Price offset="4" value="106.18" />
+        <Price offset="5" value="106.18" />
+      </Occup>
+      <Occup occupId="1317995;12699447;0;3;1;0" price="637.08" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="106.18" />
+        <Price offset="1" value="106.18" />
+        <Price offset="2" value="106.18" />
+        <Price offset="3" value="106.18" />
+        <Price offset="4" value="106.18" />
+        <Price offset="5" value="106.18" />
+      </Occup>
+    </RoomType>
+    <RoomType productId="1317995;12699494;0" name="Superior" nights="6" startDate="2013-09-01" isAvailable="true" roomId="80" hotelRoomTypeId="12699494">
+      <Occup occupId="1317995;12699494;0;3;1;0" price="641.82" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="106.97" />
+        <Price offset="1" value="106.97" />
+        <Price offset="2" value="106.97" />
+        <Price offset="3" value="106.97" />
+        <Price offset="4" value="106.97" />
+        <Price offset="5" value="106.97" />
+      </Occup>
+      <Occup occupId="1317995;12699494;0;3;2;1" price="641.82" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="106.97" />
+        <Price offset="1" value="106.97" />
+        <Price offset="2" value="106.97" />
+        <Price offset="3" value="106.97" />
+        <Price offset="4" value="106.97" />
+        <Price offset="5" value="106.97" />
+      </Occup>
+    </RoomType>
+    <RoomType productId="1317995;12699468;0" name="Superior" nights="6" startDate="2013-09-01" isAvailable="true" roomId="80" hotelRoomTypeId="12699468">
+      <Occup occupId="1317995;12699468;0;3;2;1" price="829.2" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Board bbId="1004893" name="Breakfast" price="0" />
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="138.2" />
+        <Price offset="1" value="138.2" />
+        <Price offset="2" value="138.2" />
+        <Price offset="3" value="138.2" />
+        <Price offset="4" value="138.2" />
+        <Price offset="5" value="138.2" />
+      </Occup>
+      <Occup occupId="1317995;12699468;0;3;1;0" price="829.2" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Board bbId="1004893" name="Breakfast" price="0" />
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="138.2" />
+        <Price offset="1" value="138.2" />
+        <Price offset="2" value="138.2" />
+        <Price offset="3" value="138.2" />
+        <Price offset="4" value="138.2" />
+        <Price offset="5" value="138.2" />
+      </Occup>
+    </RoomType>
+    <RoomType productId="1317995;12699445;0" name="Стандартный номер / безвозвратный тариф" nights="6" startDate="2013-09-01" isAvailable="true" roomId="4634257" hotelRoomTypeId="12699445">
+      <Occup occupId="1317995;12699445;0;3;2;1" price="839.34" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="139.89" />
+        <Price offset="1" value="139.89" />
+        <Price offset="2" value="139.89" />
+        <Price offset="3" value="139.89" />
+        <Price offset="4" value="139.89" />
+        <Price offset="5" value="139.89" />
+      </Occup>
+      <Occup occupId="1317995;12699445;0;3;1;0" price="839.34" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="139.89" />
+        <Price offset="1" value="139.89" />
+        <Price offset="2" value="139.89" />
+        <Price offset="3" value="139.89" />
+        <Price offset="4" value="139.89" />
+        <Price offset="5" value="139.89" />
+      </Occup>
+    </RoomType>
+    <RoomType productId="1317995;12699491;0" name="Стандартный" nights="6" startDate="2013-09-01" isAvailable="true" roomId="3" hotelRoomTypeId="12699491">
+      <Occup occupId="1317995;12699491;0;3;1;0" price="842.34" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="140.39" />
+        <Price offset="1" value="140.39" />
+        <Price offset="2" value="140.39" />
+        <Price offset="3" value="140.39" />
+        <Price offset="4" value="140.39" />
+        <Price offset="5" value="140.39" />
+      </Occup>
+      <Occup occupId="1317995;12699491;0;3;2;1" price="842.34" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="140.39" />
+        <Price offset="1" value="140.39" />
+        <Price offset="2" value="140.39" />
+        <Price offset="3" value="140.39" />
+        <Price offset="4" value="140.39" />
+        <Price offset="5" value="140.39" />
+      </Occup>
+    </RoomType>
+    <RoomType productId="1317995;12699457;0" name="Стандартный" nights="6" startDate="2013-09-01" isAvailable="true" roomId="3" hotelRoomTypeId="12699457">
+      <Occup occupId="1317995;12699457;0;3;2;1" price="1056.72" bedding="3,2" my_dblBed="true" isPublish="true">
+        <Board bbId="1004893" name="Breakfast" price="0" />
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="176.12" />
+        <Price offset="1" value="176.12" />
+        <Price offset="2" value="176.12" />
+        <Price offset="3" value="176.12" />
+        <Price offset="4" value="176.12" />
+        <Price offset="5" value="176.12" />
+      </Occup>
+      <Occup occupId="1317995;12699457;0;3;1;0" price="1056.72" bedding="1,1" my_dblBed="false" isPublish="true">
+        <Board bbId="1004893" name="Breakfast" price="0" />
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="176.12" />
+        <Price offset="1" value="176.12" />
+        <Price offset="2" value="176.12" />
+        <Price offset="3" value="176.12" />
+        <Price offset="4" value="176.12" />
+        <Price offset="5" value="176.12" />
+      </Occup>
+    </RoomType>
+  </Hotel>
+  <Hotel hotelId="4186" provider="localTgsProvider" name="Sheraton Salzburg" address="Auersbergstrasse 4 Salzburg  5020" category="Deluxe Supreme" bestVal="0" thumb="http://image1.urlforimages.com/4186/newexterior_Thumbnailed.jpg" starsLevel="5" minAverPrice="182.4" desc="Вам понравятся апартаменты класса люкс и отличное обслуживание, предлагаемое в  Sheraton Salzburg  ." location="Salzburg,AT" currency="EUR" brandId="164" brandName="Sheraton Hotels">
+    <RoomType productId="4186;1677323;79226" name="Классический" nights="6" startDate="2013-09-01" isAvailable="false" roomId="231" hotelRoomTypeId="1677323">
+      <Occup occupId="4186;1677323;79226;2;1;0" price="1094.38" bedding="1,1" my_dblBed="false" isPublish="false">
+        <Board bbId="4" name="Шведский стол" price="0" />
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="296.63" />
+        <Price offset="1" value="159.55" />
+        <Price offset="2" value="159.55" />
+        <Price offset="3" value="159.55" />
+        <Price offset="4" value="159.55" />
+        <Price offset="5" value="159.55" />
+      </Occup>
+      <Occup occupId="4186;1677323;79226;2;3;0" price="1751.66" bedding="3,2" my_dblBed="true" isPublish="false">
+        <Board bbId="4" name="Шведский стол" price="0" />
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="431.46" />
+        <Price offset="1" value="264.04" />
+        <Price offset="2" value="264.04" />
+        <Price offset="3" value="264.04" />
+        <Price offset="4" value="264.04" />
+        <Price offset="5" value="264.04" />
+      </Occup>
+    </RoomType>
+  </Hotel>
+  <Hotel hotelId="17121" provider="localTgsProvider" name="Lasserhof Hotel" address="Lasserstraße 47 Salzburg  5020" category="Superior First Class" bestVal="0" thumb="http://image1.urlforimages.com/17121/main001_Thumbnailed.jpg" starsLevel="4" minAverPrice="107.87" desc="В комфортабельной и классической атмосфере  Lasserhof Hotel  Вы наверняка почувствуете себя как дома." location="Zentrum,Salzburg,AT" currency="EUR" brandId="0" brandName="">
+    <RoomType productId="17121;9637774;1704810" name="Трехместный" nights="6" startDate="2013-09-01" isAvailable="true" roomId="25918" hotelRoomTypeId="9637774">
+      <Occup occupId="17121;9637774;1704810;1;3;0" price="647.22" bedding="3,2" my_dblBed="true" isPublish="false">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="107.87" />
+        <Price offset="1" value="107.87" />
+        <Price offset="2" value="107.87" />
+        <Price offset="3" value="107.87" />
+        <Price offset="4" value="107.87" />
+        <Price offset="5" value="107.87" />
+      </Occup>
+      <Occup occupId="17121;9637774;1704810;1;1;0" price="647.22" bedding="1,1" my_dblBed="false" isPublish="false">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="107.87" />
+        <Price offset="1" value="107.87" />
+        <Price offset="2" value="107.87" />
+        <Price offset="3" value="107.87" />
+        <Price offset="4" value="107.87" />
+        <Price offset="5" value="107.87" />
+      </Occup>
+    </RoomType>
+  </Hotel>
+  <Hotel hotelId="1229957" provider="localTgsProvider" name="Radisson Blu Hotel &amp; Conference Centre" address="Fanny-von-Lehnert-Strasse 7 Salzburg  5020" category="Superior First Class" bestVal="0" thumb="http://image1.urlforimages.com/1229957/exterior_Thumbnailed.jpg" starsLevel="4" minAverPrice="97.47" desc="Radisson Blu Hotel &amp; Conference Centre  отлично подходит посетителям, находящимся в деловой поездке или на отдыхе." location="Salzburg,AT" currency="EUR" brandId="158" brandName="Radisson Blu Hotels and Resorts">
+    <RoomType productId="1229957;2741018;363616" name="Для отдыхающих (Leisure)" nights="6" startDate="2013-09-01" isAvailable="true" roomId="135606" hotelRoomTypeId="2741018">
+      <Occup occupId="1229957;2741018;363616;2;3;0" price="660.66" bedding="3,2" my_dblBed="true" isPublish="false">
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="112.92" />
+        <Price offset="1" value="112.92" />
+        <Price offset="2" value="112.92" />
+        <Price offset="3" value="104.49" />
+        <Price offset="4" value="104.49" />
+        <Price offset="5" value="112.92" />
+      </Occup>
+      <Occup occupId="1229957;2741018;363616;2;1;0" price="584.82" bedding="1,1" my_dblBed="false" isPublish="false">
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="100.28" />
+        <Price offset="1" value="100.28" />
+        <Price offset="2" value="100.28" />
+        <Price offset="3" value="91.85" />
+        <Price offset="4" value="91.85" />
+        <Price offset="5" value="100.28" />
+      </Occup>
+    </RoomType>
+  </Hotel>
+  <Hotel hotelId="1211387" provider="localTgsProvider" name="Crowne Plaza Salzburg - The Pitter" address="Rainerstrasse 6-8 Salzburg  5020" category="Superior First Class" bestVal="0" thumb="http://image1.urlforimages.com/1211387/exterior_Thumbnailed.jpg" starsLevel="4" minAverPrice="104.04" desc="Это идеальное место располагает всеми удобствами для Вас и Вашей семьи." location="Salzburg,AT" currency="EUR" brandId="140" brandName="Crowne Plaza Hotels &amp; Resorts">
+    <RoomType productId="1211387;1950484;123678" name="Стандартный" nights="6" startDate="2013-09-01" isAvailable="true" roomId="3" hotelRoomTypeId="1950484">
+      <Occup occupId="1211387;1950484;123678;2;1;0" price="624.24" bedding="1,1" my_dblBed="false" isPublish="false">
+        <Board bbId="4" name="Шведский стол" price="0" />
+        <Room seqNum="2" adultNum="1" childNum="0" />
+        <Price offset="0" value="104.04" />
+        <Price offset="1" value="104.04" />
+        <Price offset="2" value="104.04" />
+        <Price offset="3" value="104.04" />
+        <Price offset="4" value="104.04" />
+        <Price offset="5" value="104.04" />
+        <SelctedSupplements>
+          <Supplement type="PerPersonSupplement" suppId="1000615" suppName="City Tax " supptType="8" suppIsMandatory="true" suppChargeType="AtProperty" price="26.40">
+            <SuppAgeGroup>
+              <SupplementAge suppFrom="1" suppTo="99" suppQuantity="1" suppPrice="6.60" />
+            </SuppAgeGroup>
+          </Supplement>
+        </SelctedSupplements>
+      </Occup>
+      <Occup occupId="1211387;1950484;123678;2;3;0" price="931.02" bedding="3,2" my_dblBed="true" isPublish="false">
+        <Board bbId="4" name="Шведский стол" price="0" />
+        <Room seqNum="1" adultNum="2" childNum="1" />
+        <Price offset="0" value="155.17" />
+        <Price offset="1" value="155.17" />
+        <Price offset="2" value="155.17" />
+        <Price offset="3" value="155.17" />
+        <Price offset="4" value="155.17" />
+        <Price offset="5" value="155.17" />
+        <SelctedSupplements>
+          <Supplement type="PerPersonSupplement" suppId="1000615" suppName="City Tax " supptType="8" suppIsMandatory="true" suppChargeType="AtProperty" price="26.40">
+            <SuppAgeGroup>
+              <SupplementAge suppFrom="1" suppTo="99" suppQuantity="3" suppPrice="6.60" />
+            </SuppAgeGroup>
+          </Supplement>
+        </SelctedSupplements>
+      </Occup>
+    </RoomType>
+  </Hotel>
+</TWS_HotelList>
