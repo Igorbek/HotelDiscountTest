@@ -136,6 +136,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Content Include="Content\Images\star1.png" />
+    <Content Include="Content\Images\star2.png" />
+    <Content Include="Content\Images\star3.png" />
+    <Content Include="Content\Images\star4.png" />
+    <Content Include="Content\Images\star5.png" />
     <Content Include="Content\kendo\2013.2.716\Black\editor.png" />
     <Content Include="Content\kendo\2013.2.716\Black\imagebrowser.png" />
     <Content Include="Content\kendo\2013.2.716\Black\loading-image.gif" />
@@ -731,7 +736,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
