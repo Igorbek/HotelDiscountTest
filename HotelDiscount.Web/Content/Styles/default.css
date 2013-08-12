@@ -135,23 +135,23 @@ form .tip {
 }
 .Hotels h1.star1,
 .HotelDetails h1.star1 {
-  background-image: url(../Images/star1.png);
+  background-image: url(/Content/Images/star1.png);
 }
 .Hotels h1.star2,
 .HotelDetails h1.star2 {
-  background-image: url(../Images/star2.png);
+  background-image: url(/Content/Images/star2.png);
 }
 .Hotels h1.star3,
 .HotelDetails h1.star3 {
-  background-image: url(../Images/star3.png);
+  background-image: url(/Content/Images/star3.png);
 }
 .Hotels h1.star4,
 .HotelDetails h1.star4 {
-  background-image: url(../Images/star4.png);
+  background-image: url(/Content/Images/star4.png);
 }
 .Hotels h1.star5,
 .HotelDetails h1.star5 {
-  background-image: url(../Images/star5.png);
+  background-image: url(/Content/Images/star5.png);
 }
 .Hotels h2,
 .HotelDetails h2,
